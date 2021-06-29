@@ -21,5 +21,4 @@ Baca artikel kami seputar tutorial programming & teknologi di website official k
 # Grup & Forum
 Join juga ke grup & forum kami di Whatsapp dan Telegram untuk mendapatkan informasi update menarik sekaligus saling sharing ilmu pengetahuan 😎
 - [Turu Group Official](https://chat.whatsapp.com/JvD4rs0fXYzIAmzzh7RsrN)
-- [Turu Group Official Telegram Channel](https://www.turupedia.com
-https://t.me/turustreaming_web)
+- [Turu Group Official Telegram Channel](https://t.me/turustreaming_web)
